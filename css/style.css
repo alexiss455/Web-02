@@ -50,7 +50,7 @@ h3{
     margin-left: 30px;
 }
 hr{
-   
+    margin: 50px auto;
     border: dotted #ddf6f7 10px;
     border-top: none;
     width: 10%;
